@@ -1,0 +1,17 @@
+h2{
+ color:yellow;
+ border-style:solid;
+}
+body{
+ background-color:rgb(19, 3, 49);
+}
+h6{
+ color:indigo;
+}
+#output{
+    background: whitesmoke;
+    border-radius: 9%;
+    border-top: 9px solid rgb(13, 16, 217);
+    float:none;
+    text-align: left;
+}
